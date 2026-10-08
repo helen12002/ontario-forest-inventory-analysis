@@ -1,0 +1,86 @@
+{
+  "downloaded": "2026-10-08",
+  "archive_sha256": "16e03b392064a36ecb03d7322c1b52d3bf9745b95bc3334f53c9642cbf0137f4",
+  "archive_bytes": 925678486,
+  "catalogue_item": {
+    "id": "9de0dad6f1b3435eb46df8ee49f4ecfd",
+    "owner": "LandInformationOntario",
+    "ownerId": "90b4c9ed3c3c0be8a654b748a0a60a6a",
+    "orgId": "a03W7iZ8T3s5vB7p",
+    "created": 1595980852000,
+    "modified": 1786481086000,
+    "guid": null,
+    "name": null,
+    "title": "Forest Resources Inventory Packaged Products - Version 2",
+    "type": "Web Map",
+    "typeKeywords": [
+      "ArcGIS Online",
+      "Explorer Web Map",
+      "Map",
+      "Metadata",
+      "Online Map",
+      "Web Map"
+    ],
+    "description": "<p>This version of the Forest Resource Inventory complies with the Forest Information Manual 2007 (v.2) Technical Specifications. The inventory's extent is for the entire unit, and is the standard accepted FRI deliverable provided to clients since 2004. The term '2D' indicates that this version does not store z-values required to view the forest data in 3D. With the exception of not displaying the FRI data in 3D, the spatial layout and attributes for the 2D version are identical to the 3D inventory.</p><div>&nbsp;</div><p>Note: The 2D version of the FRI is used to populate the structured Forest Cover data class (provincial extent) in the Land Information Ontario database.</p><div>&nbsp;</div><p>Additional Time Period Information: New inventories are loaded as they are completed and archived.</p><div>&nbsp;</div><div><strong>Product Packages</strong></div><div>&nbsp;</div><div><ul><li><strong>Abitibi River Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_AbitibiRiver_2011_2D.zip\">2D zip</a></li><li><strong>Algoma Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_AlgomaForest_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-AL.zip\">3D zip</a></li><li><strong>Algonquin Park Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_AlgonquinPark_2011_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-AP.zip\">3D zip</a></li><li><strong>Bancroft-Minden Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_BancroftMindenForest_2008_2D.zip\">2D zip</a></li><li><strong>Big Pic Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_MarathomBlock_2008_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_MarathomBlock_2008_2D.zip\">3D zip</a></li><li><strong>Black Spruce Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_BlackSpruceForest_2015_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-BSF.zip\">3D zip</a></li><li><strong>Caribou Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_CaribouForest_(175)_2012_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-CF.zip\">3D zip</a></li><li><strong>Crossroute Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_CrossrouteForest_2D_2010.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-CR.zip\">3D zip</a></li><li><strong>Dog River-Matawin Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Dogriver_MatawinForest_2012_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-DRM.zip\">3D zip</a></li><li><strong>Dryden Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_DrydenForest_2015_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-DF.zip\">3D zip</a></li><li><strong>English River Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_EnglishRiverForest_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-ERF.zip\">3D zip</a></li><li><strong>Far North Central:</strong> Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_FARNORTHCENTRAL_2016_2D.gdb.zip\">2D zip</a></li><li><strong>Far North East:</strong> Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_FARNORTHEAST_2016_2D_DRAFT.gdb.zip\">2D zip</a></li><li><strong>Far North West:</strong> Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Far_North_West_2016_2D.gdb.zip\">2D zip</a></li><li><strong>French-Severn Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_FrenchSevernForest_2011_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-FSF.zip\">3D zip</a></li><li><strong>Gordon Cosens Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_GordenCosensForest_2012_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-GCF.zip\">3D zip</a></li><li><strong>Hearst Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_HearstForest_2007_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-HF.zip\">3D zip</a></li><li><strong>Kenora Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_KenoraForest_(644)_2015_2D.zip\">2D zip</a></li><li><strong>Lac Seul Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_LacSeulForest_2015_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-LS.zip\">3D zip</a></li><li><strong>Lake Nipigon Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_LakeNipigonForest_2014_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-LNF.zip\">3D zip</a></li><li><strong>Lake Superior Provincial Park</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_LakeSuperior_(PP)_2016_2D.zip\">2D zip</a></li><li><strong>Lakehead Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_LakeHeadForest_(796)_2009_2D.zip\">2D zip</a></li><li><strong>Magpie Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_MagpieForest(565)_2014_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-MF.zip\">3D zip</a></li><li><strong>Martel Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Martel_Forest(509)_2015_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-ML.zip\">3D zip</a></li><li><strong>Mazinaw-Lanark Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_MazinawLanark_Forest_(140)_2014_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-MAF.zip\">3D zip</a></li><li><strong>Nagagami Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Nagagami_Forest(390)_2014_2D.zip\">2D zip</a></li><li><strong>Nipissing Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-NiF.zip\">3D zip</a></li><li><strong>North Shore Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_NorthShore_Forest_(630)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-NF.zip\">3D zip</a></li><li><strong>Ogoki Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Ogoki_Forest_(796)_2010_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-OF.zip\">3D zip</a></li><li><strong>Pic River Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_MarathomBlock_2008_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-MB.zip\">3D zip</a></li><li><strong>Pineland Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_PinelandForest(421)_2011_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-PF.zip\">3D zip</a></li><li><strong>Pukaskwa Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_PukaskwaPark_2012_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-PA.zip\">3D zip</a></li><li><strong>Quetico Provincial Park</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_QueticoPP_2009_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-QF.zip\">3D zip</a></li><li><strong>Red Lake Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_RedLakeForest_2010_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-RL.zip\">3D zip</a></li><li><strong>Sapawe Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_SapaweForest(853)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-SPF.zip\">3D zip</a></li><li><strong>Spanish Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_SpanishForest(210)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-SF.zip\">3D zip</a></li><li><strong>Sudbury Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_SudburyForest(889)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-SUF.zip\">3D zip</a></li><li><strong>Temagami Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_TemagamiForest(898)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-TF.zip\">3D zip</a></li><li><strong>Timiskaming Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_TimiskamingForest(280)_2014_2D.zip\">2D zip</a></li><li><strong>Trout Lake Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_TroutLakeForest(120)_2013_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-TLF.zip\">3D zip</a></li><li><strong>Wabakimi Provincial Park</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_Wabakimi_PP_2012_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-WAB.zip\">3D zip</a></li><li><strong>Wabigoon Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_WabigoonForest(130)_2010_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-W.zip\">3D zip</a></li><li><strong>Whiskey Jack Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_WhiskeyJack_2008_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-WJ.zip\">3D zip</a></li><li><strong>White River Forest</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_WhiteRiverForest_2010_2D.zip\">2D zip</a> | <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/7ef7f1e9-6db6-4f56-86d4-cd7f2cb9c82a-WRF.zip\">3D zip</a></li><li><strong>Woodland Caribou Provincial Park</strong>: Download <a target=\"_blank\" href=\"https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_WoodlandCaribouPP_2009_2D.zip\">2D zip</a></li></ul></div><div><strong>Status</strong></div><div>On going: data is being continually updated</div><div>&nbsp;</div><div><strong>Maintenance and Update Frequency</strong></div><div>As needed: data is updated as deemed necessary</div><div>&nbsp;</div><div><strong>Contact</strong></div><div>Ken Smith, GIS Officer, Science and Research Branch, Ontario Ministry of Natural Resources and Forestry, <a href=\"mailto:ken.smith@ontario.ca\" target=\"_blank\">ken.smith@ontario.ca</a></div>",
+    "tags": [
+      "forest management plan",
+      "forest management",
+      "forestry",
+      "Science and Research Branch",
+      "boundaries",
+      "planning and cadastral",
+      "plants and animals",
+      "open data",
+      "ODCSYNC",
+      "MNR",
+      "Ministry of Natural Resources"
+    ],
+    "snippet": "",
+    "thumbnail": "thumbnail/thumbnail.JPEG",
+    "documentation": null,
+    "extent": [
+      [
+        0,
+        0
+      ],
+      [
+        0,
+        0
+      ]
+    ],
+    "categories": [
+      "/Categories/Natural Resources/Science and Research Branch"
+    ],
+    "spatialReference": null,
+    "accessInformation": "Ontario Ministry of Natural Resources and Forestry \u00a9 King\u2019s Printer for Ontario, 2023",
+    "classification": null,
+    "licenseInfo": "<a href=\"https://www.ontario.ca/page/open-government-licence-ontario\">Open Government Licence \u2013 Ontario</a>",
+    "culture": "en-us",
+    "properties": null,
+    "advancedSettings": null,
+    "url": null,
+    "proxyFilter": null,
+    "access": "public",
+    "size": 1841,
+    "subInfo": 0,
+    "appCategories": [],
+    "industries": [],
+    "languages": [],
+    "largeThumbnail": null,
+    "banner": null,
+    "screenshots": [],
+    "listed": false,
+    "commentsEnabled": false,
+    "numComments": 0,
+    "numRatings": 0,
+    "avgRating": 0,
+    "numViews": 53928,
+    "contentStatus": "public_authoritative",
+    "scoreCompleteness": 83,
+    "groupDesignations": null,
+    "apiToken1ExpirationDate": -1,
+    "apiToken2ExpirationDate": -1,
+    "lastViewed": 1791471600000
+  },
+  "layer": "Ban_Mind_FRI"
+}
