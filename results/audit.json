@@ -1,0 +1,32 @@
+{
+  "full_unit": {
+    "records": 110053,
+    "duplicate_polyid_rows": 1079,
+    "source_year_counts": {
+      "2007": 110053
+    },
+    "forest_age_over_300_rows": 1
+  },
+  "study_bounds_utm17": [
+    737391.9105844547,
+    4984086.093694199,
+    757391.9105844547,
+    5004086.093694199
+  ],
+  "study_square_ha": 40000,
+  "intersecting_records_after_dedup": 3581,
+  "exact_duplicates_removed": 0,
+  "duplicate_polyid_records_retained": 0,
+  "repaired_geometry_records": 4,
+  "covered_area_ha": 39999.999999999985,
+  "overlap_ha": 2.1827872842550278e-11,
+  "forest_area_ha": 31063.523124496583,
+  "usable_forest_area_ha": 31063.523124496583,
+  "excluded_forest_area_ha": 0.0,
+  "excluded_forest_age_records": 0,
+  "max_forest_age": 136.0,
+  "area_weighted_age": 76.99457284420306,
+  "study_source_years": [
+    2007
+  ]
+}

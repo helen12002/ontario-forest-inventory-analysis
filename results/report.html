@@ -1,0 +1,52 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><title>Historical forest inventory screening</title>
+<style>body{font:16px/1.6 system-ui;max-width:1000px;margin:45px auto;padding:0 24px;color:#17382f}h1{font-size:32px;line-height:1.2}h2{margin-top:35px}img{max-width:100%}table{border-collapse:collapse}td,th{padding:10px;border-bottom:1px solid #ccd8d2}.note{background:#edf4ef;padding:18px}</style>
+<p>PORTFOLIO STUDY · HISTORICAL INVENTORY · 8 OCTOBER 2026</p>
+<h1>Forest Inventory Analysis and Age-Threshold Scenario Screening</h1>
+<p>Bancroft–Minden FRI v2 · 20 × 20 km study square centred at 45.057°N, 77.858°W</p>
+<p class="note">This study screens recorded forest age under illustrative thresholds. It does not determine allowable harvest, ecological sustainability or current forest conditions.</p>
+<h2>Question and findings</h2><p>How does the recorded age structure affect the area passing a simple age screen? The clipped study contains 31,063.5 ha coded FOR; 31,063.5 ha have ages usable under the disclosed quality rule. The area-weighted mean recorded age is 77.0 years.</p>
+<table class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>threshold_years</th>
+      <th>features</th>
+      <th>candidate_area_ha</th>
+      <th>pct_usable_forest</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>60</td>
+      <td>1739</td>
+      <td>27,191.0</td>
+      <td>87.5</td>
+    </tr>
+    <tr>
+      <td>80</td>
+      <td>1162</td>
+      <td>19,432.5</td>
+      <td>62.6</td>
+    </tr>
+    <tr>
+      <td>90</td>
+      <td>664</td>
+      <td>11,447.9</td>
+      <td>36.9</td>
+    </tr>
+    <tr>
+      <td>100</td>
+      <td>183</td>
+      <td>3,431.4</td>
+      <td>11.0</td>
+    </tr>
+  </tbody>
+</table><img src="analysis_charts.png" alt="Age distribution and threshold comparison">
+<h2>Data and method</h2><p>Downloaded the Ontario official Bancroft–Minden 2008 2D package. All 110,053 source-layer records have YRSOURCE=2007. Ages were used as recorded, without adding elapsed years. The square is an intentionally selected local study extent, not a representative sample of the entire management unit.</p>
+<p>Read Ban_Mind_FRI, retained source feature IDs, dropped vertical coordinates, validated geometry and clipped to the square. Calculated planar area in NAD83 / UTM zone 17N, dividing square metres by 10,000. Selected POLYTYPE=FOR. OAGE is treated as the recorded overstorey-age field; mixed-age stands are not fully represented by one age. Exact geometry-and-attribute duplicates were removed (0); repeated polygon identifiers alone were retained.</p>
+<h2>Quality review</h2><p>The full unit has 1,079 repeated-ID rows and 1 FOR records with OAGE above 300. These are review flags, not proven errors. In the study area 0 forest records, totalling 0.00 ha, fail the age rule (missing/nonpositive or above 300). The 300-year cutoff is an analyst-selected review limit, not a biological claim. Repaired geometries: 4. Remaining area overlap: 0.000000 ha. SQL and Python area totals agree; candidate area declines monotonically as the threshold increases.</p>
+<img src="age_map.png" alt="Recorded age map"><img src="scenario_maps.png" alt="Age threshold maps">
+<h2>Applicant-created QGIS map</h2><p>The applicant independently applied the 90-year filter in QGIS, checked 664 polygons and 11,447.9 ha using Statistical Summary, and created this print layout with a scale bar and source attribution.</p><img src="../age_screen_90.png" alt="Applicant-created QGIS map for the 90-year scenario"><h2>Interpretation and limits</h2><p>Raising the threshold narrows the set of polygons satisfying this single rule. The scenarios are nested screening sets, not selected harvest schedules. Thresholds of 60, 80, 90 and 100 years are teaching assumptions, not policy, species-specific maturity criteria or recommendations. Older forest area is not a complete biodiversity measure.</p>
+<p>No ownership, protected-area, water-buffer, habitat, access, silvicultural-system or management-constraint exclusions have been applied. Historical data and one overstorey age cannot establish operational eligibility. For uneven-aged hardwood stands, age-only screening is particularly limited. No timber volume, growth, disturbance, renewal, harvest timing or socioeconomic impacts are modelled.</p>
+<h2>Next steps</h2><p>Confirm field definitions and flagged ages with the authoritative technical specification; add land tenure and management constraints; use species-appropriate growth/yield and silvicultural rules; then explore multi-period scenarios and validate assumptions with forestry staff.</p>
+<h2>Sources and reproducibility</h2><p><a href="https://www.arcgis.com/home/item.html?id=9de0dad6f1b3435eb46df8ee49f4ecfd">Ontario FRI v2 official catalogue</a> · <a href="https://ws.gisetl.lrc.gov.on.ca/fmedatadownload/Packages/pp_FRI_FIMv2_BancroftMindenForest_2008_2D.zip">Source package</a> · <a href="https://www.ontario.ca/page/open-government-licence-ontario">Open Government Licence – Ontario</a>. Contains information licensed under the Open Government Licence – Ontario.</p>
+<p>Analysis: Python, GeoPandas, Shapely, Pyogrio, pandas, SQLite and Matplotlib. See analyze.py, audit.json, inventory.csv, scenarios.csv and inventory.gpkg. AI assisted implementation; the applicant should independently review the method and reproduce one parameter change before presenting it.</p></html>
